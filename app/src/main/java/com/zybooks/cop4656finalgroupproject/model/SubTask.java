@@ -3,6 +3,7 @@ package com.zybooks.cop4656finalgroupproject.model;
 import com.zybooks.cop4656finalgroupproject.model.StopWatch;
 
 public class SubTask {
+    //TODO: Add SQLite support (ZyBooks 6.5.2)
     private int Id;
     private int TaskId;
     private String Description;

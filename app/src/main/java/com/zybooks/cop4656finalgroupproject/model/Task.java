@@ -2,7 +2,7 @@ package com.zybooks.cop4656finalgroupproject.model;
 
 public class Task {
 
-    //
+    //TODO: Add SQLite support (ZyBooks 6.5.2)
 
     private int Id;
     private String Name;

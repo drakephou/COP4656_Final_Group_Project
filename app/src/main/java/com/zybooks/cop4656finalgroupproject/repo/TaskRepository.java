@@ -23,6 +23,8 @@ public class TaskRepository {
     }
 
     //TODO: Add support for TaskDatabase (Look at ZyBooks 6.5 StudyDatabase)
+
+    //TODO: Implement TaskDAOs and SubTaskDAOs
     private TaskRepository(Context context){
         TaskList = new ArrayList<>();
         SubTaskMap = new HashMap<>();
