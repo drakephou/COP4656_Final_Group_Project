@@ -1,4 +1,4 @@
-package com.zybooks.cop4656finalgroupproject;
+package com.zybooks.cop4656finalgroupproject.model;
 
 public class Task {
 

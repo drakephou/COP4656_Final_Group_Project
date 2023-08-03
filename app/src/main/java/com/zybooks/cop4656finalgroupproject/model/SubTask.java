@@ -1,4 +1,6 @@
-package com.zybooks.cop4656finalgroupproject;
+package com.zybooks.cop4656finalgroupproject.model;
+
+import com.zybooks.cop4656finalgroupproject.model.StopWatch;
 
 public class SubTask {
     private int Id;

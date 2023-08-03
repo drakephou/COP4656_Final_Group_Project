@@ -1,4 +1,4 @@
-package com.zybooks.cop4656finalgroupproject;
+package com.zybooks.cop4656finalgroupproject.model;
 
 
 //Basically a simpler version of the Timer class in Ch 7.5
